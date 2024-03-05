@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.scdn.co/image/ab67706f00000002aa6d9a4e74457379bb619994",
+        "title": "",
+        "description": "Hits to boost your mood and fill you with happiness!"
+    },
+    {
+        "id": 2,
+        "image": "https://i.scdn.co/image/ab67706f00000002d8fe1c03afc22a01d5109233",
+        "title": "Calming Acoustic",
+        "description": "Keep calm with instrumental acoustic tracks."
+    },
+    {
+        "id": 3,
+        "image": "https://i.scdn.co/image/ab67706f00000002e820714b484a98f6e61416da",
+        "title": "Pop Rising",
+        "description": "Who's now and next in pop. Cover: Lizzy McAlpine"
+    },
+    {
+        "id": 4,
+        "image": "https://i.scdn.co/image/ab67706f0000000263ef641f3fa47592fe798e91",
+        "title": "lofi chill",
+        "song":"../Songs/Beliver.mp3",
+        "description": "Lazy slow lofi beats for laid-back moments."
+    },
+    {
+        "id": 5,
+        "image": "https://i.scdn.co/image/ab67706f000000028d2c0fbb4e007f6dac9db559",
+        "title": "Beats",
+        "description": "True indie beats."
+    },
+    {
+        "id": 6,
+        "image": "https://i.scdn.co/image/ab67706f0000000231ca8abcbff3f5a3eb1fd339",
+        "title": "Stress Relief",
+        "description": "Calm your mind from anxiety with gentle piano and ambient music."
+    },
+    {
+        "id": 7,
+        "image": "https://i.scdn.co/image/ab67706f0000000204c4c53344f46e15b169eedf",
+        "title": "R&B",
+        "description": "It encompasses a wide range of styles."
+    },
+    {
+        "id": 8,
+        "image": "https://i.scdn.co/image/ab67706f00000002d073e656e546e43bc387ad79",
+        "title": "Peaceful Piano",
+        "description": "Calm your mind from anxiety with gentle piano and ambient music."
+    },
+    {
+        "id": 9,
+        "image": "https://i.scdn.co/image/ab67706f000000025e81461d7898c4309ef0e02d",
+        "title": "Rock Classics",
+        "description": "Rock 'n' roll music, if you like it, if you feel it, you can't help but move to it."
+    },
+    {
+        "id": 10,
+        "image": "https://i.scdn.co/image/ab67706f000000027cd703bbfec2f1e86c879bec",
+        "title": "Soft Electronic",
+        "description": "Soft electronic music for your dinner."
+    }
+]

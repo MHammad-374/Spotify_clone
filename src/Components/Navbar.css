@@ -1,0 +1,74 @@
+nav {
+    height: 70px;
+    display: flex;
+    /* background-color: #fff; */
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(181, 181, 181);
+}
+
+button.hamburger {
+    height: 50px;
+    background: #ffffff0d;
+    margin: 0px 10px;
+    display: none;
+}
+
+button.hamburger:hover {
+    background: #ffffff0d;
+}
+
+div.logo {
+    display: none;
+    margin: 0px 10px;
+}
+
+div.NavLogo {
+    display: flex;
+    align-items: center;
+}
+
+
+
+div.othersNavbar {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 30px;
+    /* background-color: #5e0a0a; */
+}
+
+button.inButtons {
+    /* padding: 15px 20px; */
+    font-size: 20px;
+    border-radius: 50px;
+    color: white;
+    border: none;
+    background-color: transparent;
+}
+
+button.inButtons:hover {
+    text-decoration: underline;
+    color: rgb(203, 203, 252);
+}
+
+.offcanvas-body,
+.offcanvas-header {
+    background-color: #151515;
+}
+
+
+@media(max-width:660px) {
+
+    button.hamburger {
+        display: block;
+    }
+
+    div.logo {
+        display: block;
+    }
+
+    div.othersNavbar {
+        display: none;
+    }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "songName": "Faded",
+        "path": "../Songs/Faded.mp3"
+    },
+    {
+        "id": 2,
+        "songName": "Alone pt-II",
+        "path": "../Songs/Alone_pt-2.mp3"
+    },
+    {
+        "id": 3,
+        "songName": "Bad Liar",
+        "path": "../Songs/BadLiar.mp3"
+    }
+]
