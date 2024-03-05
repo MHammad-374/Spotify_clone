@@ -1,7 +1,6 @@
 div.right {
     background-color: #151515;
     border-radius: 7px;
-    /* height: 200vh; */
     padding: 10px;
     overflow-y: scroll;
 }

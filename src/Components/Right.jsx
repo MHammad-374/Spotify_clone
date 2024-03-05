@@ -1,6 +1,5 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './Right.css'
-
 import Navbar from './Navbar'
 import Body from './Body'
 

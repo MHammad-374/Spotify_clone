@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './Navbar.css'
 import logo from '../assets/logo.svg'
 import home from '../assets/home.svg'
@@ -38,11 +38,6 @@ function Navbar() {
           </div>
         </div>
       </div>
-      {/* <div className="btnsGroup">
-          <img srcSet={backIcon} alt="" className='back-forward' id="back" />
-          <img srcSet={forwardIcon} alt="" className='back-forward' id="forward" />
-        </div> */}
-
       <div className="othersNavbar font">
         <button type="button" className='inButtons'>Sign up</button>
         <button type="button" className='inButtons'>Login</button>

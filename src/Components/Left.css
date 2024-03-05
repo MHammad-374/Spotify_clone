@@ -1,5 +1,4 @@
 div.left {
-    /* background-color: #a01919; */
     display: flex;
     flex-direction: column;
     gap: 7px;
@@ -13,18 +12,15 @@ div.box {
 }
 
 ul {
-    /* background: #ed9494; */
     padding: 5px 0px;
 }
 
 li.list {
     height: 30px;
-    /* color: white; */
     list-style: none;
     font-size: 19px;
     font-weight: bold;
     margin: 15px 0px 0px 0px;
-    /* background: #000; */
     display: flex;
     align-items: center;
     gap: 30px;
@@ -33,7 +29,6 @@ li.list {
 }
 
 h1.heading {
-    /* background-color: #716868; */
     font-size: 22px;
     display: flex;
     justify-content: space-between;
@@ -45,7 +40,6 @@ div.label {
     justify-content: center;
     gap: 7px;
     align-items: center;
-    /* background-color: #665353; */
     transition: all 0.2s ease;
     cursor: pointer;
 }

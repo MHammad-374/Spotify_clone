@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import ReactAudioPlayer from 'react-audio-player';
 import './Body.css'
 import faded from '../Songs/Faded.mp3'
